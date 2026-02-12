@@ -89,25 +89,19 @@ Este MVP será bem-sucedido se:
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots do Processo
 
-### Tela de Conversa Principal
-![Tela de Conversa](./prints/conversa.png)
-*"Gastei 45 reais no almoço hoje" - Registre gastos conversando naturalmente*
+### Criação do Prompt com Claude
+<img width="1305" height="720" alt="Captura de tela 2026-02-12 101354" src="https://github.com/user-attachments/assets/7b3ce1fc-db69-44a2-9fe6-32314e15622c" />
 
-### Dashboard Inteligente
-![Dashboard](./prints/dashboard.png)
-*Visualize seus gastos e metas de forma clara e objetiva*
+### Criação do readme com copilot integrado do github
+<img width="1318" height="649" alt="Captura de tela 2026-02-12 101420" src="https://github.com/user-attachments/assets/abc18081-4e42-4a57-b52d-f611dbe20d9c" />
 
-### Insights Proativos
-![Insights](./prints/insights.png)
-*Receba dicas personalizadas baseadas no seu comportamento financeiro*
+### Ao passar o prompt para o lovable vem algumas confirmações do projeto
+<img width="841" height="634" alt="Captura de tela 2026-02-12 102415" src="https://github.com/user-attachments/assets/b0c48eec-a020-4a70-a743-2f2fe073fce5" />
 
-### Metas e Progresso
-![Metas](./prints/metas.png)
-*Acompanhe suas metas financeiras com visualização clara do progresso*
-
-> **Nota:** Adicione suas capturas de tela na pasta `prints/`
+### Logo depois o lovable confirma os passos que ele vai seguir
+<img width="1313" height="644" alt="Captura de tela 2026-02-12 102645" src="https://github.com/user-attachments/assets/c5a55746-f1e5-471f-b8b4-734fdce808e4" />
 
 ---
 
