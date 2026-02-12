@@ -94,14 +94,26 @@ Este MVP será bem-sucedido se:
 ### Criação do Prompt com Claude
 <img width="1305" height="720" alt="Captura de tela 2026-02-12 101354" src="https://github.com/user-attachments/assets/7b3ce1fc-db69-44a2-9fe6-32314e15622c" />
 
+
 ### Criação do readme com copilot integrado do github
 <img width="1318" height="649" alt="Captura de tela 2026-02-12 101420" src="https://github.com/user-attachments/assets/abc18081-4e42-4a57-b52d-f611dbe20d9c" />
+
 
 ### Ao passar o prompt para o lovable vem algumas confirmações do projeto
 <img width="841" height="634" alt="Captura de tela 2026-02-12 102415" src="https://github.com/user-attachments/assets/b0c48eec-a020-4a70-a743-2f2fe073fce5" />
 
+
 ### Logo depois o lovable confirma os passos que ele vai seguir
 <img width="1313" height="644" alt="Captura de tela 2026-02-12 102645" src="https://github.com/user-attachments/assets/c5a55746-f1e5-471f-b8b4-734fdce808e4" />
+
+
+### Ao ficar pronto fui fazer alguns testes
+<img width="1304" height="585" alt="image" src="https://github.com/user-attachments/assets/0a04c5b5-5988-4370-a105-3500cd450c80" />
+
+
+### Mandando alguns prompts ele reconhece e com isso consegue ate gerar um dashboard
+<img width="1301" height="591" alt="image" src="https://github.com/user-attachments/assets/6cbf0fb5-7b48-4ff4-a614-c085d2435789" />
+
 
 ---
 
